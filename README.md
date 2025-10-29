@@ -67,7 +67,7 @@ A world where powerful language models are not limited to massive tech companies
 
 **Key Differentiators**:
 - 600M-480B parameter range covering all use cases
-- Based on Qwen3 and Qwen-Next architectures (not Qwen2)
+- Fusion architecture combining ~100 frontier LLMs
 - Co-developed by Hanzo AI and Zoo Labs
 - Optimized for inference efficiency
 - Open source with permissive licensing
@@ -112,7 +112,7 @@ The Zen LM logo embodies simplicity, balance, and enlightenment. Purple represen
 - **Zen Ultra** (480B): Frontier performance
 
 ### Architecture
-- **Foundation**: Qwen3 and Qwen-Next (NOT Qwen2)
+- **Foundation**: Fusion of ~100 frontier LLMs
 - **Training**: ASO and DSO protocols from Hanzo/Zoo
 - **Optimization**: Training-Free GRPO, BitDelta compression
 
@@ -130,8 +130,8 @@ Zen LM is co-developed by:
 - **Hanzo AI Inc**: ASO protocol, economic infrastructure
 - **Zoo Labs Foundation**: DSO protocol, decentralized training
 
-Built on:
-- **Qwen3/Qwen-Next**: Foundation architectures by Alibaba DAMO
+Technical Foundation:
+- **Fusion Architecture**: Combines ~100 frontier LLM architectures
 
 ## License
 
@@ -156,4 +156,4 @@ See [CHANGELOG.md](CHANGELOG.md) for brand evolution history.
 
 **Last Updated**: 2025-10-29  
 **Version**: 1.0.0  
-**Note**: Zen LM (not Zen AI), based on Qwen3/Qwen-Next (not Qwen2)
+**Note**: Zen LM (not Zen AI), fusion of ~100 frontier LLMs
